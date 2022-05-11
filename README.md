@@ -36,6 +36,6 @@ Para facilitar, nós criamos um vídeo de quais são os passos para encontrar es
 
 - O código deverá ser exclusivamente feito na linguagem Python.
 - O repositório deverá conter uma documentação simples de como rodar o projeto.
-- O código deverá imprimir com a formatação exemplificada na aba [Problema](#problema)
+- O código deverá imprimir as informações coletadas no terminal com a formatação exemplificada na aba [Problema](#problema)
 - Bibliotecas terceiras são bem-vindas para a solução do problema.
 - *Dica*: Utilize a biblioteca [Selenium](https://selenium-python.readthedocs.io/) ou [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/) para te auxiliar no desenvolvimento do crawler
