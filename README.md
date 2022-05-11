@@ -28,7 +28,8 @@ Avaliação do local: 4.5 de 5.331 avaliações.
 ```
 
 Para facilitar, nós criamos um vídeo de quais são os passos para encontrar essa informação no TripAdvisor. Clique no link abaixo para ver o vídeo:
-[https://drive.google.com/file/d/1nQjPGps8obOJIMGr_i7G5TWvIMta_1kV/view](Link do Vídeo)
+
+[Link do Vídeo](https://drive.google.com/file/d/1nQjPGps8obOJIMGr_i7G5TWvIMta_1kV/view)
 
 
 ## Requisitos
