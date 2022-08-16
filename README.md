@@ -20,7 +20,7 @@ Nesse contexto, o seu objetivo é desenvolver um web crawler em Python, que aces
 ## Resultado da coleta de dados ##
 Avaliação do local: <avaliacao> de <num_avaliacao> avaliações.
 ```
-Substituindo `<avaliacao` pela nota de avaliação capturada no TripAdvisor e `<num_avaliacao>` pelo número de avaliações. 
+Substituindo `<avaliacao>` pela nota de avaliação capturada no TripAdvisor e `<num_avaliacao>` pelo número de avaliações. 
 Exemplificando, se o crawler desenvolvido capturou uma nota de 4.5 e 5.331 avaliações para esse local, ele deverá imprimir no terminal dessa forma:
 ```
 ## Resultado da coleta de dados ##
